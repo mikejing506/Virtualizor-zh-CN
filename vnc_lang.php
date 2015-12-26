@@ -27,12 +27,12 @@ if(!defined('VIRTUALIZOR')){
 }
 
 $l['<title>'] = 'VNC';
-$l['vnc_info'] = 'VNC ÐÅÏ¢';
+$l['vnc_info'] = 'VNC ä¿¡æ¯';
 $l['vnc_ip'] = 'VNC IP';
-$l['vnc_port'] = 'VNC ¶Ë¿Ú';
-$l['novnc_button'] = 'Æô¶¯ HTML5 VNC¿Í»§¶Ë';
-$l['launch_vnc'] = 'Æô¶¯JAVA VNC²é¿´Æ÷';
-$l['notice'] = 'VNCÖ»»á¹¤×÷ÔÚjavaÊÇÔÚÄãµÄä¯ÀÀÆ÷°²×°ºÍÆôÓÃ¡£';
-$l['not_enabled'] = 'VNCÎ´ÆôÓÃ';
+$l['vnc_port'] = 'VNC ç«¯å£';
+$l['novnc_button'] = 'å¯åŠ¨ HTML5 VNCå®¢æˆ·ç«¯';
+$l['launch_vnc'] = 'å¯åŠ¨JAVA VNCæŸ¥çœ‹å™¨';
+$l['notice'] = 'ä½¿ç”¨VNCéœ€è¦ä½ çš„æµè§ˆå™¨å®‰è£…å¹¶å¯ç”¨JAVAã€‚';
+$l['not_enabled'] = 'VNCæœªå¯ç”¨';
 
 ?>
