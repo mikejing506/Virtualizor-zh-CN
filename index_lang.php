@@ -34,66 +34,66 @@ $l['virt_xcp'] = 'XCP';
 $l['virt_xcphvm'] = 'XCP HVM';
 $l['virt_lxc'] = 'LXC';
 
-$l['user_data_error_t'] = '用户数据错误';
-$l['user_data_error'] = '面板无法加载您的帐户信息。请向服务器管理员报告！';
+$l['user_data_error_t'] = 'User Data Error';
+$l['user_data_error'] = 'The Panel was unable to load your account information. Please report this to the server administrator!';
 
-$l['no_license'] = '找不到许可证文件！ 请向服务器管理员报告。';
+$l['no_license'] = 'The LICENSE file could not be found! Please report this to the server administrator.';
 
-$l['today'] = '<b>今天</b> at ';//The today string for showing todays post time
+$l['today'] = '<b>Today</b> at ';//The today string for showing todays post time
 
-$l['init_theme_error_t'] = '主题错误';//Title
-$l['init_theme_error'] = '无法加载主题文件 - &soft-1;.';
+$l['init_theme_error_t'] = 'Theme Error';//Title
+$l['init_theme_error'] = 'Unable to load the theme file - &soft-1;.';
 
-$l['init_theme_func_error_t'] = '主题函数错误';//Title
-$l['init_theme_func_error'] = '无法加载主题函数(s) of &soft-1;.';
+$l['init_theme_func_error_t'] = 'Theme Function Error';//Title
+$l['init_theme_func_error'] = 'Unable to load the theme function(s) of &soft-1;.';
 
-$l['load_theme_settings_error'] = '无法加载主题的设置文件.';
+$l['load_theme_settings_error'] = 'Unable to load the themes settings file.';
 
 
 //Error Handle Function
-$l['following_errors_occured'] = '发现以下错误';
+$l['following_errors_occured'] = 'The following errors were found';
 
 //Success Message Function
-$l['following_message'] = '返回以下消息';
+$l['following_message'] = 'The following message was returned';
 
 //Major Error Function
-$l['fatal_error'] = '致命错误';
-$l['following_fatal_error'] = '发生以下错误';
+$l['fatal_error'] = 'Fatal Error';
+$l['following_fatal_error'] = 'The following error occured';
 
 //Message Function
-$l['soft_message'] = '消息';
-$l['following_soft_message'] = '返回以下消息';
+$l['soft_message'] = 'Message';
+$l['following_soft_message'] = 'The following message was returned';
 
-$l['err_user_head'] = '错误';
-$l['err_user'] = '无法确定用户的类型';
+$l['err_user_head'] = 'Error';
+$l['err_user'] = 'Could not determine the type of user';
 
 //Update Softaculous
-$l['getting_info'] = '信息请求中......';
-$l['error_getting_latest'] = '无法获取信息......放弃中';
-$l['got_info'] = '获取的信息';
-$l['manual_mode'] = 'Softaculous的新版本需要手动的关注......放弃中';
-$l['no_updates'] = '当前版本是最新版本......继续中';
-$l['fetch_upgrade'] = '获取升级中......';
-$l['error_fetch_upgrade'] = '无法获取升级文件......放弃中';
-$l['error_save_upgrade'] = '无法保存升级文件......放弃中';
-$l['got_upgrade'] = '已保存升级文件';
-$l['unzip_upgrade'] = '解压缩文件中......';
-$l['error_unzip_upgrade'] = '解压缩错误......放弃中';
-$l['unzipped_upgrade'] = '解压缩成功';
-$l['running_upgrade'] = '运行升级中......';
-$l['succ_upgrade'] = '已完成';
-$l['error_upgrade'] = '升级时出现以下错误 :';
+$l['getting_info'] = 'Requesting Information......';
+$l['error_getting_latest'] = 'Could not get information......Abandoning';
+$l['got_info'] = 'Got information';
+$l['manual_mode'] = 'The new version of Softaculous requires manual attention......Abandoning';
+$l['no_updates'] = 'Current Version is Latest Version......Continuing';
+$l['fetch_upgrade'] = 'Fetching Upgrade......';
+$l['error_fetch_upgrade'] = 'Could not fetch upgrade file......Abandoning';
+$l['error_save_upgrade'] = 'Could not SAVE upgrade file......Abandoning';
+$l['got_upgrade'] = 'Saved the Upgrade File';
+$l['unzip_upgrade'] = 'Unzipping the files......';
+$l['error_unzip_upgrade'] = 'Error unzipping......Abandoning';
+$l['unzipped_upgrade'] = 'Unzipped Successfully';
+$l['running_upgrade'] = 'Running Upgrade......';
+$l['succ_upgrade'] = 'Completed';
+$l['error_upgrade'] = 'The following errors occured while upgrading :';
 
 //MySQL Errors
-$l['err_selectmy'] = '无法选定MySQL数据库。';
-$l['err_myconn'] = 'MySQL无法建立连接.';
+$l['err_selectmy'] = 'The MySQL Database could not be selected.';
+$l['err_myconn'] = 'The MySQL Connection could not be established.';
 $l['err_makequery'] = 'Could not make the query numbered';
 $l['err_mynum'] = 'MySQL Error No';
 $l['err_myerr'] = 'MySQL Error';
 
 //hf_theme.php
-$l['welcome'] = '欢迎';
-$l['logout'] = '登出';
+$l['welcome'] = 'Welcome';
+$l['logout'] = 'Logout';
 $l['page_time'] = 'Page Created In';
 $l['times_are'] = 'All times are GMT';
 $l['time_is'] = 'The time now is';

@@ -26,23 +26,23 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = '云资源';
-$l['header'] = '云资源';
-$l['resource_type'] = '资源类型';
-$l['limit'] = '限制';
-$l['used'] = '已使用';
-$l['left'] = '可用的';
-$l['unlimited'] = '无限';
-$l['num_vs'] = '虚拟机数量';
-$l['num_users'] = '用户数';
-$l['num_space'] = '磁盘空间';
+$l['<title>'] = 'Cloud Resources';
+$l['header'] = 'Cloud Resources';
+$l['resource_type'] = 'Resource Type';
+$l['limit'] = 'Limit';
+$l['used'] = 'Used';
+$l['left'] = 'Available';
+$l['unlimited'] = 'Unlimited';
+$l['num_vs'] = 'Number of VMs';
+$l['num_users'] = 'Number of Users';
+$l['num_space'] = 'Disk Space';
 $l['num_ram'] = 'Ram';
-$l['num_bandwidth'] = '带宽(流量)';
-$l['num_cores'] = '核心总数';
-$l['max_cores'] = '最大核心数 / 虚拟机';
+$l['num_bandwidth'] = 'Bandwidth';
+$l['num_cores'] = 'Total Cores';
+$l['max_cores'] = 'Max Cores / VM';
 $l['num_ipv4'] = 'IPv4';
-$l['num_ipv6_subnet'] = 'IPv6 子网';
+$l['num_ipv6_subnet'] = 'IPv6 Subnets';
 $l['num_ipv6'] = 'IPv6';
-$l['cpuinfo'] = 'CPU 信息';
+$l['cpuinfo'] = 'CPU Information';
 
 ?>

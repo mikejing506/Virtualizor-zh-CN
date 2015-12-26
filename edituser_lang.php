@@ -26,18 +26,18 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['no_user_email'] = '您没有输入电子邮件ID';
-$l['no_user_password'] = '您没有输入密码';
-$l['invalid_email'] = '您输入的电子邮件ID无效';
-$l['uid_not_found'] = '用户ID未找到';
+$l['no_user_email'] = 'You did not enter the Email ID';
+$l['no_user_password'] = 'You did not enter the Password';
+$l['invalid_email'] = 'The Email ID you have entered is invalid';
+$l['uid_not_found'] = 'User ID not found';
 
 //Theme Settings
-$l['<title>'] = '编辑用户';
-$l['page_head'] = '编辑用户';
-$l['add_user'] = '编辑用户';
-$l['done'] = '用户成功编辑';
+$l['<title>'] = 'Edit User';
+$l['page_head'] = 'Edit User';
+$l['add_user'] = 'Edit User';
+$l['done'] = 'User has been edited';
 $l['user_email'] = 'Email';
-$l['user_password'] = '密码';
-$l['submit_button'] = '编辑用户';
+$l['user_password'] = 'Password';
+$l['submit_button'] = 'Edit User';
 
 ?>

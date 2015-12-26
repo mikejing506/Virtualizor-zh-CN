@@ -26,27 +26,27 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['no_new'] = '没有指定新密码。';
-$l['no_conf'] = '确认密码丢失。';
-$l['no_match'] = '你给的密码不匹配';
-$l['err_changing'] = '更改密码时发生了一些错误。';
+$l['no_new'] = 'You did not specify the new password.';
+$l['no_conf'] = 'The confirmation password is missing.';
+$l['no_match'] = 'The passwords you gave do not match';
+$l['err_changing'] = 'There were some errors while changing the password.';
 
 // Theme strings
-$l['<title>'] = '更改密码';
-$l['submit_button'] = '更改密码';
-$l['new_pass'] = '新密码';
-$l['old_pass'] = '旧密码';
-$l['retype_pass'] = '重新输入新密码';
-$l['change_note'] = '修改根密码';
-$l['change_final'] = '您的密码已成功更改';
-$l['change_onboot'] = '当VPS再次引导时，您的根密码将被改变';
-$l['change_notify'] = '更改VPS根密码中...';
+$l['<title>'] = 'Change Password';
+$l['submit_button'] = 'Change Password';
+$l['new_pass'] = 'New Password';
+$l['old_pass'] = 'Old Password';
+$l['retype_pass'] = 'Retype New Password';
+$l['change_note'] = 'Change Root Password';
+$l['change_final'] = 'Your password has been changed successfully';
+$l['change_onboot'] = 'Your password will be changed when the VPS is booted again';
+$l['change_notify'] = 'Changing the VPS root password...';
 $l['strength_indicator'] = 'Strength Indicator';
-$l['bad'] = '弱';
-$l['good'] = '好';
-$l['strong'] = '强';
-$l['short'] = '短';
-$l['weak_pass'] = '密码必须至少含有以下的其中3个条件：一个大写字母，小写字母，数字或特殊符号';
-$l['pass_match'] = '密码不匹配';
+$l['bad'] = 'Bad';
+$l['good'] = 'Good';
+$l['strong'] = 'Strong';
+$l['short'] = 'Short';
+$l['weak_pass'] = 'Password must contain atleast 3 of the following : An uppercase letter, a lower case letter, a number or a special symbol';
+$l['pass_match'] = 'Passwords do not match';
 
 ?>

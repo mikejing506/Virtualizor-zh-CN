@@ -26,19 +26,19 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = '仪表板';
-$l['basic'] = '基本信息';
-$l['hostname'] = '主机名:'; 
-$l['osinstalled'] = '已安装的操作系统:';
-$l['ipaddr'] = 'IP 地址:';
-$l['cpuinfo'] = 'CPU信息';
-$l['raminfo'] = '内存信息';
-$l['diskinfo'] = '磁盘信息';
-$l['bandwidthinfo'] = '带宽信息';
-$l['cur_stat'] = '状态';
-$l['status_1'] = '在线';
-$l['status_0'] = '宕机';
-$l['suspended'] = '暂停';
+$l['<title>'] = 'Dashboard';
+$l['basic'] = 'Basic Information';
+$l['hostname'] = 'Host Name:'; 
+$l['osinstalled'] = 'OS Installed:';
+$l['ipaddr'] = 'IP Address:';
+$l['cpuinfo'] = 'CPU Information';
+$l['raminfo'] = 'RAM Information';
+$l['diskinfo'] = 'Disk Information';
+$l['bandwidthinfo'] = 'Bandwidth Information';
+$l['cur_stat'] = 'Status';
+$l['status_1'] = 'Online';
+$l['status_0'] = 'Offline';
+$l['suspended'] = 'Suspended';
 $l['poweredby'] = ' Powered by: ';
-$l['trademarks'] = '所使用的所有相应的标记均为其各自公司的注册商标。';
+$l['trademarks'] = 'All respective logos used are trademarks or registered trademarks of their respective companies.';
 ?>

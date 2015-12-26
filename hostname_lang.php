@@ -26,14 +26,14 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = '主机名';
-$l['no_new'] = '请指定主机名来改变。';
-$l['new_host'] = '新主机名';
-$l['submit_button'] = '更改主机名';
-$l['err_changing'] = '在更改主机名时出现了一些错误';
-$l['host_final'] = '您的主机名已成功更改';
-$l['invalid_hostname'] = '您提交的主机名无效';
-$l['change_onboot'] = '当VPS再次引导时，您的主机名将被改变';
-$l['current_hostname'] = '当前主机名';
-$l['change_notify'] = '更改主机名中...';
+$l['<title>'] = 'Hostname';
+$l['no_new'] = 'Please specify a Hostname to change.';
+$l['new_host'] = 'New Host Name';
+$l['submit_button'] = 'Change Hostname';
+$l['err_changing'] = 'There were some errors while changing the hostname.';
+$l['host_final'] = 'Your Hostname has been changed successfully';
+$l['invalid_hostname'] = 'The hostname you submitted is not valid';
+$l['change_onboot'] = 'Your hostname will be changed when the VPS is booted again';
+$l['current_hostname'] = 'Current Hostname';
+$l['change_notify'] = 'Changing the hostname...';
 ?>

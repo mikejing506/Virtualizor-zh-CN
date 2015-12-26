@@ -26,19 +26,19 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['no_new'] = '您没有指定新密码';
-$l['no_conf'] = '确认密码丢失。';
-$l['no_match'] = '你给的密码不匹配';
-$l['err_changing'] = '更改密码时出现了一些错误。';
-$l['no_nonalphanumeric'] = '不允许使用非字母数字字符';
+$l['no_new'] = 'You did not specify the new password.';
+$l['no_conf'] = 'The confirmation password is missing.';
+$l['no_match'] = 'The passwords you gave do not match';
+$l['err_changing'] = 'There were some errors while changing the password.';
+$l['no_nonalphanumeric'] = 'No Non-Alphanumeric characters are allowed';
 
 // Theme strings
-$l['<title>'] = '修改VNC密码';
-$l['submit_button'] = '修改VNC密码';
-$l['new_pass'] = '新密码';
-$l['old_pass'] = '旧密码';
-$l['retype_pass'] = '重新输入新密码';
-$l['change_note'] = '修改VNC密码';
-$l['change_final'] = 'VNC密码已成功更改。';
-$l['change_notify'] = '修改VNC密码中...';
+$l['<title>'] = 'Change VNC Password';
+$l['submit_button'] = 'Change VNC Password';
+$l['new_pass'] = 'New Password';
+$l['old_pass'] = 'Old Password';
+$l['retype_pass'] = 'Retype New Password';
+$l['change_note'] = 'Change VNC Password';
+$l['change_final'] = 'Your VNC Password has been changed successfully.';
+$l['change_notify'] = 'Changing the VNC Password...';
 ?>

@@ -26,14 +26,14 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['no_type'] = '请指定虚拟化的类型';
-$l['num_vs_over'] = '你已经创建的虚拟机所允许的最大数量';
+$l['no_type'] = 'Please specify the type of Virtualization';
+$l['num_vs_over'] = 'You have already created the maximum number of VMs allowed';
 
-$l['slave_cant'] = '添加虚拟服务器错误';
-$l['slave_cant_exp'] = '从服务器不允许添加虚拟服务器！';
-$l['none_plan'] = '无';
-$l['no_hname'] = '请指定主机名';
-$l['no_os'] = '请为你的虚拟机选择一个操作系统';
+$l['slave_cant'] = 'Add Virtual Server Error';
+$l['slave_cant_exp'] = 'Slave servers are not allowed to add Virtual Server !';
+$l['none_plan'] = 'None';
+$l['no_hname'] = 'Please specify the Hostname';
+$l['no_os'] = 'Please choose a OS for the VPS';
 $l['no_rootpass'] = 'Please specify a Root Password';
 $l['no_disk_space'] = 'Please specify the Disk Space to be allocated';
 $l['no_ram'] = 'Please specify the RAM memory';

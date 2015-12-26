@@ -26,23 +26,23 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['apik_heading'] = 'API 证书';
-$l['apik_api_credentials'] = 'API 证书';
-$l['apik_no_key'] = '您没有任何API证书。请新增一个。';
+$l['apik_heading'] = 'API Credentials';
+$l['apik_api_credentials'] = 'API Credentials';
+$l['apik_no_key'] = 'You do not have any API Credentials. Please add one.';
 $l['apik_h_apikey'] = 'API Key';
-$l['apik_h_apipass'] = 'API 密码';
-$l['apik_h_del'] = '删除';
-$l['apik_create_api_key'] = '创建API密钥对';
-$l['apik_key_added'] = 'API密钥对已添加';
-$l['apik_key_deleted'] = 'API密钥对已被删除';
+$l['apik_h_apipass'] = 'API Password';
+$l['apik_h_del'] = 'Delete';
+$l['apik_create_api_key'] = 'Create API Key Pair';
+$l['apik_key_added'] = 'API key pair has been added';
+$l['apik_key_deleted'] = 'API key pair has been deleted';
 
-$l['<title>'] = 'API 证书';
-$l['heading'] = 'API 证书';
-$l['api_credentials'] = 'API 证书';
-$l['no_key'] = '您没有任何API证书。请新增一个。';
+$l['<title>'] = 'API Credentials';
+$l['heading'] = 'API Credentials';
+$l['api_credentials'] = 'API Credentials';
+$l['no_key'] = 'You do not have any API Credentials. Please add one.';
 $l['h_apikey'] = 'API Key';
-$l['h_apipass'] = 'API 密码';
-$l['h_del'] = '删除';
-$l['create_api_key'] = '创建API密钥对';
+$l['h_apipass'] = 'API Password';
+$l['h_del'] = 'Delete';
+$l['create_api_key'] = 'Create API Key Pair';
 
 ?>

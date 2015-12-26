@@ -26,18 +26,18 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = ' 磁盘信息';
-$l['header'] = '磁盘';
-$l['diskinfo'] = '磁盘信息';
-$l['totaldisk'] = '总磁盘 : ';
-$l['diskutilised'] = '利用 : ';
-$l['percentdisk'] = '利用率 % : ';
-$l['graphheader'] = '磁盘利用率';
-$l['inodesinfo'] ='索引节点信息';
-$l['inodestotal'] = '总索引节点 :'; 
-$l['inodesutilised'] = '利用 : ';
-$l['percent_inodes'] = '利用率 % :'; 
-$l['inodesheader'] = '索引节点利用率';
-$l['not_supported'] = '不支持当前资源利用率的监测。';
+$l['<title>'] = ' Disk Information';
+$l['header'] = 'Disk';
+$l['diskinfo'] = 'Disk Information';
+$l['totaldisk'] = 'Total Disk : ';
+$l['diskutilised'] = 'Utilised : ';
+$l['percentdisk'] = 'Utilization % : ';
+$l['graphheader'] = 'Disk Utilization';
+$l['inodesinfo'] ='Inodes Information';
+$l['inodestotal'] = 'Total Inodes :'; 
+$l['inodesutilised'] = 'Utilised : ';
+$l['percent_inodes'] = 'Utilization % :'; 
+$l['inodesheader'] = 'Inodes Utilization';
+$l['not_supported'] = 'Current utilization monitoring of this resource is not supported.';
 
 ?>

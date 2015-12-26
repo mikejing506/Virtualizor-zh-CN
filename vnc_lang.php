@@ -27,12 +27,12 @@ if(!defined('VIRTUALIZOR')){
 }
 
 $l['<title>'] = 'VNC';
-$l['vnc_info'] = 'VNC 信息';
+$l['vnc_info'] = 'VNC Information';
 $l['vnc_ip'] = 'VNC IP';
-$l['vnc_port'] = 'VNC 端口';
-$l['novnc_button'] = '启动 HTML5 VNC客户端';
-$l['launch_vnc'] = '启动JAVA VNC查看器';
-$l['notice'] = 'VNC只会工作在java是在你的浏览器安装和启用。';
-$l['not_enabled'] = 'VNC未启用';
+$l['vnc_port'] = 'VNC Port';
+$l['novnc_button'] = 'Launch HTML 5 VNC Client';
+$l['launch_vnc'] = 'Launch Java VNC Viewer';
+$l['notice'] = 'VNC will only work if java is installed and enabled in your browser';
+$l['not_enabled'] = 'VNC is not enabled';
 
 ?>
