@@ -43,6 +43,5 @@ $l['novnc_button'] = '启动 HTML5 VNC客户端';
 $l['launch_vnc'] = '启动JAVA VNC查看器';
 $l['notice'] = '使用VNC需要你的浏览器安装并启用JAVA。';
 $l['not_enabled'] = 'VNC未启用';
->>>>>>> 2019e3326928d31a49b4f672e4e9e5b04fb98da9
 
 ?>
